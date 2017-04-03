@@ -1,0 +1,3 @@
+F:\pano256x128\indoor\airplane_interior;0
+F:\pano256x128\indoor\car_interior;1
+F:\pano256x128\indoor\kitchen;2
